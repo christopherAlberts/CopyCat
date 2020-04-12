@@ -4,5 +4,5 @@ The Cat monitors a directory and copies all its current content to another direc
 
 ![](Images/CopyCatBanner.png)
 
-Just make the needed changes in the CopyCatConfig.txt file.
+Just make the needed changes in the CopyCatConfig.txt file and make sure it's kept in the same directory as the .exe file.
 
