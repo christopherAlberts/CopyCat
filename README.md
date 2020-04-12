@@ -6,3 +6,4 @@ The Cat monitors a directory and copies all its current content to another direc
 
 Just make the needed changes in the CopyCatConfig.txt file and make sure it's kept in the same directory as the .exe file.
 
+![](Images/pythonpoweredlengthgif.gif)
