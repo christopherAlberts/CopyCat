@@ -1,7 +1,7 @@
 File to Monitor:
-C:\Users\Tom\OneDrive\Codes\Python\PythonProjects\CopyCat\Monitor_test
+C:\Users\Garfield\OneDrive\Codes\Python\PythonProjects\CopyCat\Monitor_test
 File to Copy:
-C:\Users\Tom\OneDrive\Codes\Python\PythonProjects\CopyCat\Copy_to_test
+C:\Users\Garfield\OneDrive\Codes\Python\PythonProjects\CopyCat\Copy_to_test
 Refresh Time in Seconds:
 5
 End of config
